@@ -1,9 +1,8 @@
 # ChatGPTHub信息中心（All-In-One）
 
-# 技术讨论小组
-ChatGPT技术讨论交流小组/讨论群  <img src="./images/WeChat-technology.jpg" alt="加群助手" width="30%" height="30%" />
-
-ChatGPT创业投资交流小组/讨论群  <img src="./images/WeChat.jpg" alt="加群助手" width="30%" height="30%" />
+# 技术和创业投资讨论小组
+<img src="./images/WeChat-technology.jpg" alt="加群助手" width="30%" height="30%" />
+ChatGPT技术和创业投资交流小组
 
 # 证券研究报告
 [ChatGPT研究框架（2023）](https://github.com/leemingjun/ChatGPTHub/blob/main/research/ChatGPT%20research%20framwork-2023.pdf)
