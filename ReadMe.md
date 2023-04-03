@@ -1,4 +1,5 @@
 # ChatGPTHub信息中心（All-In-One）
+收录ChatGPT相关信息，包括有关论文、证券投资研究报告、调研报告、创业机会等相关信息。
 
 # 技术和创业投资讨论小组
 <img src="./images/WeChat.jpg" alt="加群助手" width="30%" height="30%" />
