@@ -24,5 +24,7 @@
 
 6.[COT-Prompting Elicits Reasoning in Large Language Models.pdf](https://github.com/leemingjun/ChatGPTHub/blob/main/papers/COT%20Prompting%20Elicits%20Reasoning%20in%20Large%20Language%20Models.pdf)
 
+
 7.[GPT-4 Technical Report.pdf](https://github.com/leemingjun/ChatGPTHub/blob/main/papers/GPT-4%20Technical%20Report.pdf)
+
 8.[Sparks of Artificial General Intelligence - Early experiments with GPT-4.pdf](https://github.com/leemingjun/ChatGPTHub/blob/main/papers/Sparks%20of%20Artificial%20General%20Intelligence%20-%20Early%20experiments%20with%20GPT-4.pdf)
