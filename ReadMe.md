@@ -2,11 +2,6 @@
 
 收录ChatGPT相关信息，包括有关论文、证券投资研究报告、调研报告、创业机会等相关信息。
 
-# 技术和创业投资讨论小组
-
-<img src="./images/WeChat.jpg" alt="加群助手" width="30%" height="30%" />
-拉群助手——ChatGPT技术和创业投资交流小组
-
 # 调研报告——哈尔滨工业大学
 
 [ChatGPT调研报告-哈尔滨工业大学](https://github.com/leemingjun/ChatGPTHub/blob/main/research/ChatGPT%E8%B0%83%E7%A0%94%E6%8A%A5%E5%91%8A-%E5%93%88%E5%B0%94%E6%BB%A8%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A6.zip)
